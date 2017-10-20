@@ -12,6 +12,7 @@ public sealed class Cannon : MonoBehaviour
     {
         Vector3 screenPosition = Camera.main.WorldToScreenPoint(transform.position);
         Vector3 mouseDirection = Input.mousePosition - screenPosition;
+        mouseDirection.z = 0.0f;
 
         var rotation = Quaternion.FromToRotation(startingDirection, mouseDirection);
         transform.localRotation = rotation;
