@@ -38,5 +38,5 @@ Deixar esse jogo mais _gostosinho_ possível.
 
 ## Logística
 
-- Grupos de 2 ou 3
+- Grupos de 2 a 4 humaninhos
 - Envia o trabalho por [aqui](https://goo.gl/forms/xOv5EM13KUgqirqm2)
