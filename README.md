@@ -10,8 +10,6 @@ Deixar esse jogo mais _gostosinho_ possível.
 
 - CAaaMmmeRraAA ShhaAAaAkkeEEeEE (_camera shake_)
 - Partículas (explosão, fumaça, estilhaços, etc)
-- Sprites melhores
-- Balas maiores
 - Som? ([bfxr](https://www.bfxr.net/))
 - _Freeze frame_ em explosões
 - Cartuchos de bala
@@ -19,6 +17,7 @@ Deixar esse jogo mais _gostosinho_ possível.
 - Animação de explosão?
 - Camera acompanha um pouco o movimento do mouse?
 - Balas colidem entre si (com partículas entre elas?)
+- _Charge_ quando pressiona o botão do mouse
 
 ## IMPORTANTE
 
