@@ -13,6 +13,7 @@ public sealed class Bullet : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        Camera.main.GetComponent<CameraShake>().Shake();
         Destroy(gameObject);
     }
 }
