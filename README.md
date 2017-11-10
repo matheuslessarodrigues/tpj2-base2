@@ -18,6 +18,7 @@ Deixar esse jogo mais _gostosinho_ possível.
 - Cartuchos que caem no chão ficam lá até o final
 - Animação de explosão?
 - Camera acompanha um pouco o movimento do mouse?
+- Balas colidem entre si (com partículas entre elas?)
 
 ## IMPORTANTE
 
